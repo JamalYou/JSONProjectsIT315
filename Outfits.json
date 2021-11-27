@@ -1,0 +1,15 @@
+{
+  "HikingTrails":
+  [
+    {"Shirt":"Difficult","Pant":"2510 ft","OutfitID":1,"Shoe":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"Shirt":"Difficult","Pant":"2510 ft","OutfitID":2,"Shoe":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"Shirt":"Difficult","Pant":"2510 ft","OutfitID":3,"Shoe":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"Shirt":"Difficult","Pant":"2510 ft","OutfitID":4,"Shoe":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"Shirt":"Difficult","Pant":"2510 ft","OutfitID":5,"Shoe":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"Shirt":"Difficult","Pant":"2510 ft","OutfitID":6,"Shoe":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"Shirt":"Difficult","Pant":"2510 ft","OutfitID":7,"Shoe":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"}
+    
+  ],
+  "Status":"OK"
+}
+
